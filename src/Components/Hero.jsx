@@ -130,7 +130,7 @@ const Hero = ({ isDarkMode }) => {
                             <div className="mt-4">
                                 <motion.a
                                     variants={childVariants}
-                                    href="/assets/Projects/Hitesh_Matharu_Resume.pdf"
+                                    href="/assets/Hitesh_Matharu_Resume.pdf"
                                     download="Hitesh_Matharu_Resume.pdf"
                                     className={`px-4 py-2 font-semibold rounded-md transition-all ${
                                         isDarkMode
